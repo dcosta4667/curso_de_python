@@ -62,10 +62,4 @@ alunas = {
     }
 }
 
-print(alunas.keys())
-
-print(alunas.items())
-
-print(alunas.values())
-
-
+presencas = []
